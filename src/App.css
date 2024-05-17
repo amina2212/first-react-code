@@ -1,0 +1,59 @@
+.slide img{
+  width:100% ;
+  
+}
+#btn1{
+
+    background-color: brown;
+    width:400px ;
+    border: 1px solid brown; 
+    margin-top:0px ;
+    margin-left:35% ;
+  
+
+}
+ .centre{
+    display:flex ;
+    justify-content: space-evenly;
+    border-bottom:5px solid rgb(145, 142, 142) ;
+ }
+.centre img{
+  height:300px ;
+
+
+}
+
+.centre div{
+
+  background-color: rgb(33, 33, 32);
+   border-radius:10px ;
+   margin:10px ;
+   color: beige;
+
+}
+
+.price{
+ background-color: rgb(244, 10, 10);
+
+}
+h3{
+  margin-top:30px ;
+  margin-left:30px ;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: aliceblue;
+}
+
+.footer{
+  background-color: rgb(48, 48, 49);
+  height:200px ;
+  width:100% ;
+
+}
+.icons{
+  color: azure;
+  display: flex;
+  justify-content: center;
+  padding:30px ;
+  justify-content:space-evenly;
+  
+}

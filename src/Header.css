@@ -1,0 +1,59 @@
+h1{
+    color: rgba(241, 46, 46, 0.959);
+   font-size:40px ;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   margin-top:32px ;
+ }
+ 
+ 
+ nav {
+     background-color: #120808;
+     padding-top:10px ;
+     height:150px ;
+ }
+ /* .header{
+     height:50px ;
+ } */
+ ul{
+    display: flex;
+    
+ 
+ }
+ .logo img{
+    height:20px ;
+    width:30px ;
+    border:3px rgb(218, 46, 46) ;
+    background-color: rgb(24, 21, 21);
+    
+ 
+ }
+ button{
+     /* display: flex; */
+     font-size: 20px;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     background-color: black;
+     color: azure;
+     border:3px solid rgb(218, 46, 46) ;
+     border-radius:5px ;
+     margin-left:40px ;
+     margin-bottom:20px ;
+     margin-top:40px ;
+     height: 30px;
+ }
+ .right-btn{
+        margin-left:600PX ;
+       background-color: rgb(231, 55, 55);
+     border-radius:8px ;
+ 
+ }
+ 
+ .new-btn{
+       border:3px solid black ;
+       
+        
+ }
+ .new-btn img{
+    height:30px ;
+    margin-left:500px ;
+    
+ }
